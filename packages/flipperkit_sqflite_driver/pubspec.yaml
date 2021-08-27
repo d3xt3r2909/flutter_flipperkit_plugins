@@ -16,7 +16,7 @@ dependencies:
   flutter_flipperkit:
     git:
       url: git@github.com:d3xt3r2909/flutter_flipperkit.git
-      ref: fix_master
+      ref: master
 
 dev_dependencies:
   flutter_test:
